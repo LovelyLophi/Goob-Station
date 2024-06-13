@@ -90,6 +90,16 @@
     ClothingHandsGlovesColorPurple: 2
     ClothingEyesGlassesCheapSunglasses: 3
     # DO NOT ADD MORE, USE UNIFORM DYING
+    ClothingOuterCsCorporateJacket: 2
+    ClothingOuterEeCorporateJacket: 2
+    ClothingOuterHiCorporateJacket: 2
+    ClothingOuterHmCorporateJacket: 2
+    ClothingOuterIdCorporateJacket: 2
+    ClothingOuterZhCorporateJacket: 2
+    ClothingOuterGeCorporateJacket: 2
+    ClothingOuterFaCorporateJacket: 2
+    ClothingOuterDdCorporateJacket: 2
+    ClothingOuterBcCorporateJacket: 2
   contrabandInventory:
     ClothingMaskNeckGaiter: 2
     ClothingUniformJumpsuitTacticool: 1
